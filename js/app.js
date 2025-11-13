@@ -1,3 +1,4 @@
+//  1-Masala
 
 // let soz = prompt("So‘z kiriting:");
 
@@ -19,6 +20,7 @@
 //  console.log esa kiritilgan sozni oynada chiqaradi
 // ]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
 
+// 2-Masala
 
 // while(true) {
 //     let min = 44;
